@@ -1,6 +1,6 @@
 # OxyVolve: Photosynthetic Oxygen Evolution Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/james-r-barrett/oxysolve/blob/main/oxysolve.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/james-r-barrett/oxysolve/blob/main/oxysolve.ipynb)]
 
 **OxyVolve** is a Python-based tool designed to streamline the analysis of oxygen evolution data collected from **Hansatech oxygen electrodes**. 
 
